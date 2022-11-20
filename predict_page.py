@@ -114,8 +114,6 @@ def show_predict_page():
 
         play = gbc.predict(X)
         st.subheader(f"It will be a {play[0]} play")
-        return
     
-    show_predict_page()
     
 
