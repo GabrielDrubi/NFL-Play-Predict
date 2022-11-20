@@ -1,0 +1,27 @@
+.stButton > button {
+    color: white;
+    background-color: rgb(255, 42, 42);
+    font-size: 20px;
+    height: 55px;
+    width: 100%;
+}
+
+.stButton > button:hover {
+    color: white;
+    background-color: rgb(255, 27, 27);
+    border-color: red;
+    font-size: 20px;
+    height: 55px;
+    width: 100%;
+}
+
+.css-10trblm {
+    position: relative;
+    text-align: center;
+}
+
+/*
+.css-1wrcr25 {
+    background-image: url(https://w0.peakpx.com/wallpaper/365/877/HD-wallpaper-nfl-blm.jpg) ;
+}
+*/
